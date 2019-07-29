@@ -1,1 +1,2 @@
 Rebase Test
+- [Master] Master가 텍스트 추가
