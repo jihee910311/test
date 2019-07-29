@@ -1,6 +1,6 @@
-Rebase Test
-- [Master] Master°¡ ÅØ½ºÆ® Ãß°¡
-- [Master] Master°¡ ÅØ½ºÆ® Ãß°¡2
-- [Rebase] Rebase Test¸¦ À§ÇÑ ÅØ½ºÆ® Ãß°¡
-- [Rebase] Rebase Test¸¦ À§ÇÑ ÅØ½ºÆ® Ãß°¡2
-- [Rebase] Rebase Test¸¦ À§ÇÑ ÅØ½ºÆ® Ãß°¡3
+ï»¿Rebase Test
+- [Master] Masterê°€ í…ìŠ¤íŠ¸ ì¶”ê°€
+- [Master] Masterê°€ í…ìŠ¤íŠ¸ ì¶”ê°€2
+- [Rebase] Rebase Testë¥¼ ìœ„í•œ í…ìŠ¤íŠ¸ ì¶”ê°€
+- [Rebase] Rebase Testë¥¼ ìœ„í•œ í…ìŠ¤íŠ¸ ì¶”ê°€2
+- [Rebase] Rebase Testë¥¼ ìœ„í•œ í…ìŠ¤íŠ¸ ì¶”ê°€3
