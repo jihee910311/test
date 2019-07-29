@@ -1,3 +1,4 @@
 Rebase Test
 - [Master] Master가 텍스트 추가
 - [Master] Master가 텍스트 추가2
+- [Rebase] Rebase Test를 위한 텍스트 추가
