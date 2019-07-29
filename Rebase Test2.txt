@@ -1,3 +1,4 @@
 ﻿Rebase Test2
 - base 텍스트
 - [master] mater 텍스트 추가
+- [master] mater 텍스트 추가2
