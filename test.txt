@@ -13,7 +13,7 @@ Rebase Test
 
 ==========
 Test2
-- default
+- default("0")
 
 Master
 - master1
